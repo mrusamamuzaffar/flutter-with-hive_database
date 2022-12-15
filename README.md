@@ -1,16 +1,3 @@
-# hive_db_task_todo
+# hive_db_task_todo - Flutter
 
-A simple todo app using hive database.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter with Hive database. Hive db task todo. Another code snippet another new technology with Flutter. Complete simple app using Hive DB. all operations are included in it. we can scale any database according to our need. No Redundancy no repetive data.
